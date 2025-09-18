@@ -20,7 +20,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![The output of my Asphalt Art Project!!](image.png)
+![The output of my Asphalt Art Project!!](![alt text](image.png))
 
 ## Reflection
 
